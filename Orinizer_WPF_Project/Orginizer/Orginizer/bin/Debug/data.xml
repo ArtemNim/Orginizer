@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfNote xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Note>
+    <date>2017-06-30T09:38:00</date>
+    <text>Playing dota 2.</text>
+    <state>В процессе</state>
+    <notify>true</notify>
+    <login>artem</login>
+  </Note>
+  <Note>
+    <date>2017-06-15T10:00:00</date>
+    <text>ZNO</text>
+    <state>Не выполнено</state>
+    <notify>true</notify>
+    <login>artem</login>
+  </Note>
+  <Note>
+    <date>2017-06-15T13:08:00</date>
+    <text>qqq</text>
+    <state>Завершено</state>
+    <notify>false</notify>
+    <login>artem</login>
+  </Note>
+  <Note>
+    <date>2017-06-15T20:00:00</date>
+    <text>Programming</text>
+    <state>Не выполнено</state>
+    <notify>true</notify>
+    <login>artem</login>
+  </Note>
+  <Note>
+    <date>2017-06-30T00:00:00</date>
+    <text>111</text>
+    <state>В процессе</state>
+    <notify>true</notify>
+    <login>artem</login>
+  </Note>
+</ArrayOfNote>
